@@ -1,7 +1,7 @@
 
 from Parser import Parser
 from Colorizer import Model
-from scipy.misc import imsave
+from skimage.io import imsave
 import numpy as np
 
 parser = Parser( 64 )
