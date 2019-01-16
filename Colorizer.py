@@ -4,6 +4,7 @@ from tensorflow.python.keras.activations import *
 from tensorflow.python.keras import optimizers
 from tensorflow.python.keras import losses
 from tensorflow.python.keras import models
+
 import tensorflow as tf
 
 class Model( object ):
