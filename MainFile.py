@@ -16,7 +16,7 @@ np.save( 'sample_data/Y.npy' , Y )
 np.save( 'sample_data/test_X.npy' , test_X )
 print( 'data processed' )
 
-model.load_model( 'models/model.h5' )
+model.load_model( 'models/final_model.h5' )
 
 #model.fit( X , Y  , number_of_epochs=100 )
 #model.save_model( 'models/model.h5')

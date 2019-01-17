@@ -15,7 +15,7 @@ The `model.py` file could be found [here](https://github.com/shubham0204/ImageCo
 For using the notebook in Google Colab :
 1. Select the GPU runtime.
 2. Upload all the files under the `sample_data` directory to Google Colab.
-3. If you wish to continue training, you can upload the model.h5 file located in the 
+3. If you wish to continue training, you can upload the `final_model.h5` file located in the 
 `models` directory.
 
 For using the notebook in other ways:
